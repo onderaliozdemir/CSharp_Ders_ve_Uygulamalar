@@ -12,43 +12,63 @@ namespace _2___Interfaces_Gerçek_Hayat_Kullanımı
     {
         static void Main(string[] args)
         {
-            
+            /*
+                Böyle kullanırsam yanlış olur. DAL katmanına iş katmanı aracılığı ile erişmem daha doğru. O yüzden DatabaseManager sınıfı oluşturuyorum.
+            */
+            // IDatabase database=new SqlServerDAL();
+            // database.Add();
+
+            DatabaseManager databaseManager=new DatabaseManager();
+            databaseManager.Add(new SqlServerDAL());
 
         }
     }
-    interface IPerson
-    { 
-        int Id { get; set; }
-        string FirstName { get; set; }
-        string LastName { get; set; }
+    public interface IDatabase{
+
+        void Add();
+        void Delete();
+        void Update();
     }
-    class Customer : IPerson
+
+    public class SqlServerDAL : IDatabase
     {
-        public int Id { get; set; }
-        public string FirstName {get; set; }
-        public string LastName { get ; set; }
-        public string Email { get; set; }
+        public void Add()
+        {
+            System.Console.WriteLine("Sql'e eklendi");
+        }
 
+        public void Delete()
+        {
+            System.Console.WriteLine("Sql' den silindi.");
+        }
+
+        public void Update()
+        {
+            System.Console.WriteLine("Sqlden update edildi.");
+        }
     }
+    public class MongoDAL : IDatabase
+    {
+        public void Add()
+        {
+            System.Console.WriteLine("Mongo ya eklendi");
+        }
 
-    class Student : IPerson
-    { 
-        public int Id { get; set; }
-        public string FirstName {get; set; }
-        public string LastName { get ; set; }
-        public string Departmant { get; set; }
-    }
+        public void Delete()
+        {
+            System.Console.WriteLine("Mongo dan silindi.");
+        }
 
-    class PersonManager{
-        public void Add(IPerson person){
-            System.Console.WriteLine(person.FirstName);
+        public void Update()
+        {
+            System.Console.WriteLine("Mongo ya update edildi.");
         }
     }
 
-    class Worker:IPerson{
-        public int Id { get; set; }
-        public string FirstName {get; set; }
-        public string LastName { get ; set; }
-        public string WorkingTime { get; set; }
+    public class DatabaseManager{
+
+        public void Add(IDatabase database){
+            database.Add();
+        }
     }
 }
