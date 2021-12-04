@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "2 - Interfaces Neden Kullanılır/1.0.0": {
+        "runtime": {
+          "2 - Interfaces Neden Kullanılır.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "2 - Interfaces Neden Kullanılır/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

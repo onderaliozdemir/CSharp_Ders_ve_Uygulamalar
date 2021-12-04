@@ -1,0 +1,16 @@
+C:\Users\NDR\Desktop\CSharp_Ders_ve_Uygulamalar\Lesson & Practices\2 - Interfaces Neden Kullanılır\bin\Debug\net5.0\2 - Interfaces Neden Kullanılır.exe
+C:\Users\NDR\Desktop\CSharp_Ders_ve_Uygulamalar\Lesson & Practices\2 - Interfaces Neden Kullanılır\bin\Debug\net5.0\2 - Interfaces Neden Kullanılır.deps.json
+C:\Users\NDR\Desktop\CSharp_Ders_ve_Uygulamalar\Lesson & Practices\2 - Interfaces Neden Kullanılır\bin\Debug\net5.0\2 - Interfaces Neden Kullanılır.runtimeconfig.json
+C:\Users\NDR\Desktop\CSharp_Ders_ve_Uygulamalar\Lesson & Practices\2 - Interfaces Neden Kullanılır\bin\Debug\net5.0\2 - Interfaces Neden Kullanılır.runtimeconfig.dev.json
+C:\Users\NDR\Desktop\CSharp_Ders_ve_Uygulamalar\Lesson & Practices\2 - Interfaces Neden Kullanılır\bin\Debug\net5.0\2 - Interfaces Neden Kullanılır.dll
+C:\Users\NDR\Desktop\CSharp_Ders_ve_Uygulamalar\Lesson & Practices\2 - Interfaces Neden Kullanılır\bin\Debug\net5.0\ref\2 - Interfaces Neden Kullanılır.dll
+C:\Users\NDR\Desktop\CSharp_Ders_ve_Uygulamalar\Lesson & Practices\2 - Interfaces Neden Kullanılır\bin\Debug\net5.0\2 - Interfaces Neden Kullanılır.pdb
+C:\Users\NDR\Desktop\CSharp_Ders_ve_Uygulamalar\Lesson & Practices\2 - Interfaces Neden Kullanılır\obj\Debug\net5.0\2 - Interfaces Neden Kullanılır.csproj.AssemblyReference.cache
+C:\Users\NDR\Desktop\CSharp_Ders_ve_Uygulamalar\Lesson & Practices\2 - Interfaces Neden Kullanılır\obj\Debug\net5.0\2 - Interfaces Neden Kullanılır.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\NDR\Desktop\CSharp_Ders_ve_Uygulamalar\Lesson & Practices\2 - Interfaces Neden Kullanılır\obj\Debug\net5.0\2 - Interfaces Neden Kullanılır.AssemblyInfoInputs.cache
+C:\Users\NDR\Desktop\CSharp_Ders_ve_Uygulamalar\Lesson & Practices\2 - Interfaces Neden Kullanılır\obj\Debug\net5.0\2 - Interfaces Neden Kullanılır.AssemblyInfo.cs
+C:\Users\NDR\Desktop\CSharp_Ders_ve_Uygulamalar\Lesson & Practices\2 - Interfaces Neden Kullanılır\obj\Debug\net5.0\2 - Interfaces Neden Kullanılır.csproj.CoreCompileInputs.cache
+C:\Users\NDR\Desktop\CSharp_Ders_ve_Uygulamalar\Lesson & Practices\2 - Interfaces Neden Kullanılır\obj\Debug\net5.0\2 - Interfaces Neden Kullanılır.dll
+C:\Users\NDR\Desktop\CSharp_Ders_ve_Uygulamalar\Lesson & Practices\2 - Interfaces Neden Kullanılır\obj\Debug\net5.0\ref\2 - Interfaces Neden Kullanılır.dll
+C:\Users\NDR\Desktop\CSharp_Ders_ve_Uygulamalar\Lesson & Practices\2 - Interfaces Neden Kullanılır\obj\Debug\net5.0\2 - Interfaces Neden Kullanılır.pdb
+C:\Users\NDR\Desktop\CSharp_Ders_ve_Uygulamalar\Lesson & Practices\2 - Interfaces Neden Kullanılır\obj\Debug\net5.0\2 - Interfaces Neden Kullanılır.genruntimeconfig.cache
