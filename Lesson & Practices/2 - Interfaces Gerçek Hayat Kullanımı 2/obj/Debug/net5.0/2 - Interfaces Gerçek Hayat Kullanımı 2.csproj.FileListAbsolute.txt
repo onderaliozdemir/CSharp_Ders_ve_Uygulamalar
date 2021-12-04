@@ -1,0 +1,16 @@
+C:\Users\NDR\Desktop\CSharp_Ders_ve_Uygulamalar\Lesson & Practices\2 - Interfaces Gerçek Hayat Kullanımı 2\bin\Debug\net5.0\2 - Interfaces Gerçek Hayat Kullanımı 2.exe
+C:\Users\NDR\Desktop\CSharp_Ders_ve_Uygulamalar\Lesson & Practices\2 - Interfaces Gerçek Hayat Kullanımı 2\bin\Debug\net5.0\2 - Interfaces Gerçek Hayat Kullanımı 2.deps.json
+C:\Users\NDR\Desktop\CSharp_Ders_ve_Uygulamalar\Lesson & Practices\2 - Interfaces Gerçek Hayat Kullanımı 2\bin\Debug\net5.0\2 - Interfaces Gerçek Hayat Kullanımı 2.runtimeconfig.json
+C:\Users\NDR\Desktop\CSharp_Ders_ve_Uygulamalar\Lesson & Practices\2 - Interfaces Gerçek Hayat Kullanımı 2\bin\Debug\net5.0\2 - Interfaces Gerçek Hayat Kullanımı 2.runtimeconfig.dev.json
+C:\Users\NDR\Desktop\CSharp_Ders_ve_Uygulamalar\Lesson & Practices\2 - Interfaces Gerçek Hayat Kullanımı 2\bin\Debug\net5.0\2 - Interfaces Gerçek Hayat Kullanımı 2.dll
+C:\Users\NDR\Desktop\CSharp_Ders_ve_Uygulamalar\Lesson & Practices\2 - Interfaces Gerçek Hayat Kullanımı 2\bin\Debug\net5.0\ref\2 - Interfaces Gerçek Hayat Kullanımı 2.dll
+C:\Users\NDR\Desktop\CSharp_Ders_ve_Uygulamalar\Lesson & Practices\2 - Interfaces Gerçek Hayat Kullanımı 2\bin\Debug\net5.0\2 - Interfaces Gerçek Hayat Kullanımı 2.pdb
+C:\Users\NDR\Desktop\CSharp_Ders_ve_Uygulamalar\Lesson & Practices\2 - Interfaces Gerçek Hayat Kullanımı 2\obj\Debug\net5.0\2 - Interfaces Gerçek Hayat Kullanımı 2.csproj.AssemblyReference.cache
+C:\Users\NDR\Desktop\CSharp_Ders_ve_Uygulamalar\Lesson & Practices\2 - Interfaces Gerçek Hayat Kullanımı 2\obj\Debug\net5.0\2 - Interfaces Gerçek Hayat Kullanımı 2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\NDR\Desktop\CSharp_Ders_ve_Uygulamalar\Lesson & Practices\2 - Interfaces Gerçek Hayat Kullanımı 2\obj\Debug\net5.0\2 - Interfaces Gerçek Hayat Kullanımı 2.AssemblyInfoInputs.cache
+C:\Users\NDR\Desktop\CSharp_Ders_ve_Uygulamalar\Lesson & Practices\2 - Interfaces Gerçek Hayat Kullanımı 2\obj\Debug\net5.0\2 - Interfaces Gerçek Hayat Kullanımı 2.AssemblyInfo.cs
+C:\Users\NDR\Desktop\CSharp_Ders_ve_Uygulamalar\Lesson & Practices\2 - Interfaces Gerçek Hayat Kullanımı 2\obj\Debug\net5.0\2 - Interfaces Gerçek Hayat Kullanımı 2.csproj.CoreCompileInputs.cache
+C:\Users\NDR\Desktop\CSharp_Ders_ve_Uygulamalar\Lesson & Practices\2 - Interfaces Gerçek Hayat Kullanımı 2\obj\Debug\net5.0\2 - Interfaces Gerçek Hayat Kullanımı 2.dll
+C:\Users\NDR\Desktop\CSharp_Ders_ve_Uygulamalar\Lesson & Practices\2 - Interfaces Gerçek Hayat Kullanımı 2\obj\Debug\net5.0\ref\2 - Interfaces Gerçek Hayat Kullanımı 2.dll
+C:\Users\NDR\Desktop\CSharp_Ders_ve_Uygulamalar\Lesson & Practices\2 - Interfaces Gerçek Hayat Kullanımı 2\obj\Debug\net5.0\2 - Interfaces Gerçek Hayat Kullanımı 2.pdb
+C:\Users\NDR\Desktop\CSharp_Ders_ve_Uygulamalar\Lesson & Practices\2 - Interfaces Gerçek Hayat Kullanımı 2\obj\Debug\net5.0\2 - Interfaces Gerçek Hayat Kullanımı 2.genruntimeconfig.cache
