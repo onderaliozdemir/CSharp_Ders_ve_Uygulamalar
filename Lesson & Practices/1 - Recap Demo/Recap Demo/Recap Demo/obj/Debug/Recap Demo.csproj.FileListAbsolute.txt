@@ -1,0 +1,10 @@
+C:\Users\NDR\Desktop\CSharp_Ders_ve_Uygulamalar\Lesson & Practices\1 - Recap Demo\Recap Demo\Recap Demo\bin\Debug\Recap Demo.exe.config
+C:\Users\NDR\Desktop\CSharp_Ders_ve_Uygulamalar\Lesson & Practices\1 - Recap Demo\Recap Demo\Recap Demo\bin\Debug\Recap Demo.exe
+C:\Users\NDR\Desktop\CSharp_Ders_ve_Uygulamalar\Lesson & Practices\1 - Recap Demo\Recap Demo\Recap Demo\bin\Debug\Recap Demo.pdb
+C:\Users\NDR\Desktop\CSharp_Ders_ve_Uygulamalar\Lesson & Practices\1 - Recap Demo\Recap Demo\Recap Demo\obj\Debug\Recap Demo.csproj.AssemblyReference.cache
+C:\Users\NDR\Desktop\CSharp_Ders_ve_Uygulamalar\Lesson & Practices\1 - Recap Demo\Recap Demo\Recap Demo\obj\Debug\Recap_Demo.Form1.resources
+C:\Users\NDR\Desktop\CSharp_Ders_ve_Uygulamalar\Lesson & Practices\1 - Recap Demo\Recap Demo\Recap Demo\obj\Debug\Recap_Demo.Properties.Resources.resources
+C:\Users\NDR\Desktop\CSharp_Ders_ve_Uygulamalar\Lesson & Practices\1 - Recap Demo\Recap Demo\Recap Demo\obj\Debug\Recap Demo.csproj.GenerateResource.cache
+C:\Users\NDR\Desktop\CSharp_Ders_ve_Uygulamalar\Lesson & Practices\1 - Recap Demo\Recap Demo\Recap Demo\obj\Debug\Recap Demo.csproj.CoreCompileInputs.cache
+C:\Users\NDR\Desktop\CSharp_Ders_ve_Uygulamalar\Lesson & Practices\1 - Recap Demo\Recap Demo\Recap Demo\obj\Debug\Recap Demo.exe
+C:\Users\NDR\Desktop\CSharp_Ders_ve_Uygulamalar\Lesson & Practices\1 - Recap Demo\Recap Demo\Recap Demo\obj\Debug\Recap Demo.pdb
