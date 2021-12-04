@@ -1,0 +1,16 @@
+C:\Users\NDR\Desktop\C#\Lesson & Practices\Class_Lesson\bin\Debug\net5.0\Class_Lesson.exe
+C:\Users\NDR\Desktop\C#\Lesson & Practices\Class_Lesson\bin\Debug\net5.0\Class_Lesson.deps.json
+C:\Users\NDR\Desktop\C#\Lesson & Practices\Class_Lesson\bin\Debug\net5.0\Class_Lesson.runtimeconfig.json
+C:\Users\NDR\Desktop\C#\Lesson & Practices\Class_Lesson\bin\Debug\net5.0\Class_Lesson.runtimeconfig.dev.json
+C:\Users\NDR\Desktop\C#\Lesson & Practices\Class_Lesson\bin\Debug\net5.0\Class_Lesson.dll
+C:\Users\NDR\Desktop\C#\Lesson & Practices\Class_Lesson\bin\Debug\net5.0\ref\Class_Lesson.dll
+C:\Users\NDR\Desktop\C#\Lesson & Practices\Class_Lesson\bin\Debug\net5.0\Class_Lesson.pdb
+C:\Users\NDR\Desktop\C#\Lesson & Practices\Class_Lesson\obj\Debug\net5.0\Class_Lesson.csproj.AssemblyReference.cache
+C:\Users\NDR\Desktop\C#\Lesson & Practices\Class_Lesson\obj\Debug\net5.0\Class_Lesson.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\NDR\Desktop\C#\Lesson & Practices\Class_Lesson\obj\Debug\net5.0\Class_Lesson.AssemblyInfoInputs.cache
+C:\Users\NDR\Desktop\C#\Lesson & Practices\Class_Lesson\obj\Debug\net5.0\Class_Lesson.AssemblyInfo.cs
+C:\Users\NDR\Desktop\C#\Lesson & Practices\Class_Lesson\obj\Debug\net5.0\Class_Lesson.csproj.CoreCompileInputs.cache
+C:\Users\NDR\Desktop\C#\Lesson & Practices\Class_Lesson\obj\Debug\net5.0\Class_Lesson.dll
+C:\Users\NDR\Desktop\C#\Lesson & Practices\Class_Lesson\obj\Debug\net5.0\ref\Class_Lesson.dll
+C:\Users\NDR\Desktop\C#\Lesson & Practices\Class_Lesson\obj\Debug\net5.0\Class_Lesson.pdb
+C:\Users\NDR\Desktop\C#\Lesson & Practices\Class_Lesson\obj\Debug\net5.0\Class_Lesson.genruntimeconfig.cache

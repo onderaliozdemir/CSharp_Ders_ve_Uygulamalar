@@ -1,0 +1,18 @@
+
+TOPLU YORUM SATIRI
+CTRL + SHIFT + A 
+
+-----------------------------------------
+
+REGION TANIMLAMA 
+#region CLASS GÖREVLERİ
+             /* 
+               .........
+            */
+#endregion 
+
+-----------------------------------------
+
+REGION OLUŞTURMA EKLENTİSİ VE KISAYOLU
+vscode eklentisi : #region folding for VS Code (https://marketplace.visualstudio.com/items?itemName=maptz.regionfolder)
+kısayol : (Ctrl+M Ctrl+R)
