@@ -4,7 +4,7 @@ CTRL + SHIFT + A
 
 -----------------------------------------
 
-REGION TANIMLAMA 
+VSCODE VE VISUAL STUDIO REGION TANIMLAMA 
 #region CLASS GÖREVLERİ
              /* 
                .........
@@ -13,6 +13,42 @@ REGION TANIMLAMA
 
 -----------------------------------------
 
-REGION OLUŞTURMA EKLENTİSİ VE KISAYOLU
+VSCODE REGION OLUŞTURMA EKLENTİSİ VE KISAYOLU
 vscode eklentisi : #region folding for VS Code (https://marketplace.visualstudio.com/items?itemName=maptz.regionfolder)
 kısayol : (Ctrl+M Ctrl+R)
+
+-----------------------------------------
+
+VSCODE FILE HEADER COMMENT EKLENTİSİ (Yazar vs.)
+
+yüklenecek extension : https://marketplace.visualstudio.com/items?itemName=doi.fileheadercomment
+
+vscode da F1 Command Palette'ye settings.json olarak aratılır. Aşağıdaki konfigürasyonlar eklenir.
+settings.json
+{
+    "terminal.integrated.defaultProfile.windows": "Command Prompt",
+    "explorer.confirmDelete": false,
+    "git.enableSmartCommit": true,
+    "window.zoomLevel": 2,
+    "git.autofetch": true,
+    "fileHeaderComment.parameter":{
+		"*":{
+			"commentbegin": "/*",
+			"commentprefix": " *",
+			"commentend": " */",
+			"author": "Önder Ali ÖZDEMİR",
+            "email":"onderozdemir184@gmail.com"
+		}
+	},
+	"fileHeaderComment.template":{
+
+		"*":[
+			"${commentbegin}",
+			"${commentprefix} Created on ${date}",
+            "${commentprefix} Author:  ${author}",
+            "${commentprefix} ${email}",
+			"${commentend}"
+		]
+	}
+}
+
